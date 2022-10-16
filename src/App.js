@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <SearchBar />
-      <Routes>
+      {/* <Routes>
         <Route path='/' element={<Recipes />} />
-      </Routes>
+      </Routes> */}
     </div>
   );
 }
