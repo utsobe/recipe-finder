@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "ttcbar1",
+        "category": "Coffee",
+        "name": "Americano",
+        "recipe": "Hot – 1 shot of espresso in the white cup (smaller cup so the taste wont be watery) Cold - 1 shot of espresso in tall glass filled with ice all the way. If the cup not full after pouring the espresso, then add a little ice water and fill the rest with ice. Put more ice than water so that the taste won’t be water when customer takes the first sip."
+    },
+    {
+        "_id": "ttcbar2",
+        "category": "Coffee",
+        "name": "Flat White",
+        "recipe": "Flat white is only available in hot, no cold. If cold its just iced latte. For flat white recommend to customer who can’t take strong coffee cos it is more milk and less foam. When steaming the milk, don’t make too much foam."
+    },
+    {
+        "_id": "ttcbar3",
+        "category": "Coffee",
+        "name": "Café Lattle",
+        "recipe": "Hot – 1 shot espresso in the brown cup and steam the milk with more foam than latte. Cold. Put ice in the tall glass and fill ½ with milk. Then pour espresso. After that steam a little bit of milk with a lot of foam and put the foam layer at the top. Add a little cocoa powder over the foam once done."
+    },
+    {
+        "_id": "ttcbar4",
+        "category": "Coffee",
+        "name": "Cappuccino",
+        "recipe": "Hot – 1 shot espresso in the brown cup and steam the milk with more foam than latte. Cold- Put ice in the tall glass and fill ½ with milk. Then pour espresso. After that steam a little bit of milk with a lot of foam and put the foam layer at the top. Add a little cocoa powder over the foam once done."
+    },
+    {
+        "_id": "ttcbar5",
+        "category": "Coffee",
+        "name": "Café Mocha",
+        "recipe": "Hot – 2 tea-spoon of cocoa powder and 2 seconds pour the Hershey dark choc syrup. Mix with very little hot water just to melt the cocoa powder. Pour espresso after the chocolate is mixed. Steam the milk like steaming milk for latte and pour. Cold – 3 tea-spoon of cocoa powder, pour the Hershey choclate syrup for 5 seconds and the pour into a tall glass filled with ice and milk. Then pour espresso at the very last."
+    },
+    {
+        "_id": "ttcbar6",
+        "category": "Coffee",
+        "name": "Café Mocha",
+        "recipe": "Mix espresso with 1 table spoon of salted caramel. Steam milk like latte and pour. Then drizzle a little salted caramel over the foam. Cold - Drizzle the caramel in  a glass of ice then pour ½ of the glass with milk. Pour a little milk in the white pitcher and mix the milk with the salted caramel. Then pour that milk in the tall glass. Then pour espresso in the end. If the salted caramel in the small tube finish then use the Hershey one and add 2 pinch of salt."
+    }
+]
