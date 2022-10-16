@@ -5,7 +5,7 @@ const SearchBar = () => {
         <div className='max-w-7xl mx-auto px-12 flex justify-center mt-5'>
             <div>
                 <div>
-                    <h2 className='text-3xl text-center'>The Twelve Cafe Bar Recipe</h2>
+                    <h2 className='text-lg lg:text-3xl text-center'>The Twelve Cafe Bar Recipe</h2>
                 </div>
                 <div className="form-control mx-auto mt-5">
                     <div className="input-group w-5xl">
