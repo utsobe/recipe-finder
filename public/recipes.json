@@ -10,7 +10,7 @@
         }
     },
     {
-        "_id": "ttcbar7",
+        "_id": "ttcbar2",
         "category": "Coffee",
         "name": "Salted Caramel Macchiato",
         "recipe": {
@@ -20,7 +20,7 @@
         }
     },
     {
-        "_id": "ttcbar5",
+        "_id": "ttcbar3",
         "category": "Coffee",
         "name": "Cafe Mocha",
         "recipe": {
@@ -30,7 +30,7 @@
         }
     },
     {
-        "_id": "ttcbar6",
+        "_id": "ttcbar4",
         "category": "Coffee",
         "name": "The Twelve Iced Coffee",
         "recipe": {
@@ -40,7 +40,7 @@
         }
     },
     {
-        "_id": "ttcbar2",
+        "_id": "ttcbar5",
         "category": "Coffee",
         "name": "Flat White",
         "recipe": {
@@ -50,7 +50,7 @@
         }
     },
     {
-        "_id": "ttcbar4",
+        "_id": "ttcbar6",
         "category": "Coffee",
         "name": "Cappuccino",
         "recipe": {
@@ -60,8 +60,8 @@
         }
     },
     {
-        "_id": "ttcbar17",
-        "category": "Loose Leaf Tea",
+        "_id": "ttcbar7",
+        "category": "Tea",
         "name": "Earl Grey",
         "recipe": {
             "hot": "Cut teabag string and put in the brown cup. Fill all  the way with hot water.",
@@ -70,7 +70,7 @@
         }
     },
     {
-        "_id": "ttcbar17",
+        "_id": "ttcbar8",
         "category": "Tea",
         "name": "Chamomile",
         "recipe": {
@@ -80,7 +80,7 @@
         }
     },
     {
-        "_id": "ttcbar18",
+        "_id": "ttcbar9",
         "category": "Tea",
         "name": "English Breakfast",
         "recipe": {
@@ -90,7 +90,7 @@
         }
     },
     {
-        "_id": "ttcbar18",
+        "_id": "ttcbar10",
         "category": "Tea",
         "name": "Honey Lemon Tea",
         "recipe": {
@@ -100,7 +100,7 @@
         }
     },
     {
-        "_id": "ttcbar35",
+        "_id": "ttcbar11",
         "category": "Tea",
         "name": "Ice Lemon Tea",
         "recipe": {
@@ -110,7 +110,7 @@
         }
     },
     {
-        "_id": "ttcbar36",
+        "_id": "ttcbar12",
         "category": "Tea",
         "name": "Ice Black Tea",
         "recipe": {
@@ -120,7 +120,7 @@
         }
     },
     {
-        "_id": "ttcbar8",
+        "_id": "ttcbar13",
         "category": "Non Coffee",
         "name": "Twelve's Chocolate",
         "recipe": {
@@ -130,7 +130,7 @@
         }
     },
     {
-        "_id": "ttcbar34",
+        "_id": "ttcbar14",
         "category": "Non Coffee",
         "name": "Walnut Brownie Milk",
         "recipe": {
@@ -140,7 +140,7 @@
         }
     },
     {
-        "_id": "ttcbar56",
+        "_id": "ttcbar15",
         "category": "Non Coffee",
         "name": "Milo Kaw Kaw",
         "recipe": {
@@ -150,7 +150,7 @@
         }
     },
     {
-        "_id": "ttcbar546",
+        "_id": "ttcbar16",
         "category": "Non Coffee",
         "name": "3 Layered Tea",
         "recipe": {
@@ -160,7 +160,7 @@
         }
     },
     {
-        "_id": "ttcbar546",
+        "_id": "ttcbar17",
         "category": "Non Coffee",
         "name": "Teh Tarik",
         "recipe": {
@@ -170,7 +170,7 @@
         }
     },
     {
-        "_id": "ttcbar5456",
+        "_id": "ttcbar18",
         "category": "Non Coffee",
         "name": "Kopi O",
         "recipe": {
@@ -180,7 +180,7 @@
         }
     },
     {
-        "_id": "ttcbar5443346",
+        "_id": "ttcbar19",
         "category": "Milkshakes",
         "name": "Vanilla Special",
         "recipe": {
@@ -190,7 +190,7 @@
         }
     },
     {
-        "_id": "ttcbar54346",
+        "_id": "ttcbar20",
         "category": "Milkshakes",
         "name": "Nutella Goodness",
         "recipe": {
@@ -200,7 +200,7 @@
         }
     },
     {
-        "_id": "ttcbar5346",
+        "_id": "ttcbar21",
         "category": "Milkshakes",
         "name": "Biscoff Crunch",
         "recipe": {
@@ -210,7 +210,7 @@
         }
     },
     {
-        "_id": "ttcbar534456",
+        "_id": "ttcbar22",
         "category": "Milkshakes",
         "name": "Strawberry Marshmallow",
         "recipe": {
@@ -220,7 +220,7 @@
         }
     },
     {
-        "_id": "ttcbar5344456",
+        "_id": "ttcbar23",
         "category": "Soft Drinks",
         "name": "Ribena Lychee",
         "recipe": {
@@ -230,7 +230,7 @@
         }
     },
     {
-        "_id": "ttcbar534456",
+        "_id": "ttcbar24",
         "category": "Soft Drinks",
         "name": "A&W Float",
         "recipe": {
@@ -240,7 +240,7 @@
         }
     },
     {
-        "_id": "ttcbar29",
+        "_id": "ttcbar25",
         "category": "Fruit Juice",
         "name": "Orange",
         "recipe": {
@@ -250,7 +250,7 @@
         }
     },
     {
-        "_id": "ttcbar28",
+        "_id": "ttcbar26",
         "category": "Fruit Juice",
         "name": "Watermelon",
         "recipe": {
@@ -260,7 +260,7 @@
         }
     },
     {
-        "_id": "ttcbar28",
+        "_id": "ttcbar27",
         "category": "Fruit Juice",
         "name": "Juice Of The Day",
         "recipe": {
