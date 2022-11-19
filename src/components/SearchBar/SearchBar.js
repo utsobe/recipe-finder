@@ -67,7 +67,7 @@ const SearchBar = () => {
                     <h3 className="text-2xl">{recipeDetail?.name} <span className='ml-1 text-sm'><small>({recipeDetail?.category})</small></span></h3>
                     {recipeDetail?.recipe?.hot && <p className='mt-4'><span className='font-semibold text-red-600'>Hot - </span>{recipeDetail.recipe.hot}</p>}
                     {recipeDetail?.recipe?.cold && <p className='mt-4'><span className='font-semibold text-blue-600'>Cold - </span>{recipeDetail.recipe.cold}</p>}
-                    {recipeDetail?.recipe?.note && <p className='mt-4'><span className='font-semibold text-orange-600'>Note - </span>{recipeDetail.recipe.note}</p>}
+                    {recipeDetail?.recipe?.note && <p className='mt-4'><span className='font-semibold text-orange-600'>Note** - </span>{recipeDetail.recipe.note}</p>}
                 </div>
             </div>
 

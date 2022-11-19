@@ -10,32 +10,12 @@
         }
     },
     {
-        "_id": "ttcbar2",
+        "_id": "ttcbar7",
         "category": "Coffee",
-        "name": "Flat White",
+        "name": "Salted Caramel Macchiato",
         "recipe": {
-            "hot": "For flat white recommend to customer who can’t take strong coffee cos it is more milk and less foam. When steaming the milk, don’t make too much foam.",
-            "cold": "",
-            "note": "Flat white is only available in hot, no cold. If cold its just iced latte."
-        }
-    },
-    {
-        "_id": "ttcbar3",
-        "category": "Coffee",
-        "name": "Cafe Lattle",
-        "recipe": {
-            "hot": "1 shot espresso in the brown cup and steam the milk with medium amount of foam. Latte has more foam than flat white but less foam than cappuccino.",
-            "cold": "Put ice in the tall glass and fill ¾ with milk. The pour one shot of espresso and fill the balance with ice. Don’t put water in latte, if need more just add more ice or milk only.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar4",
-        "category": "Coffee",
-        "name": "Cappuccino",
-        "recipe": {
-            "hot": "1 shot espresso in the brown cup and steam the milk with more foam than latte.",
-            "cold": "Put ice in the tall glass and fill ½ with milk. Then pour espresso. After that steam a little bit of milk with a lot of foam and put the foam layer at the top. Add a little cocoa powder over the foam once done",
+            "hot": "Mix espresso with 1 table spoon of salted caramel. Steam milk like latte and pour. Then drizzle a little salted caramel over the foam.",
+            "cold": "Drizzle the caramel in  a glass of ice then pour ½ of the glass with milk. Pour a little milk in the white pitcher and mix the milk with the salted caramel. Then pour that milk in the tall glass. Then pour espresso in the end.",
             "note": ""
         }
     },
@@ -60,103 +40,23 @@
         }
     },
     {
-        "_id": "ttcbar7",
+        "_id": "ttcbar2",
         "category": "Coffee",
-        "name": "Salted Caramel Macchiato",
+        "name": "Flat White",
         "recipe": {
-            "hot": "Mix espresso with 1 table spoon of salted caramel. Steam milk like latte and pour. Then drizzle a little salted caramel over the foam.",
-            "cold": "Drizzle the caramel in  a glass of ice then pour ½ of the glass with milk. Pour a little milk in the white pitcher and mix the milk with the salted caramel. Then pour that milk in the tall glass. Then pour espresso in the end.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar8",
-        "category": "Chocolate",
-        "name": "The Twelve Hot Chocolate",
-        "recipe": {
-            "hot": "Mix 3 teaspoon of cocoa powder and 1 table spoon of Hershey syrup. Mix with very little hot water to melt the chocolate. Steam milk like latte and pour",
+            "hot": "For flat white recommend to customer who can’t take strong coffee cos it is more milk and less foam. When steaming the milk, don’t make too much foam.",
             "cold": "",
+            "note": "Flat white is only available in hot, no cold. If cold its just iced latte."
+        }
+    },
+    {
+        "_id": "ttcbar4",
+        "category": "Coffee",
+        "name": "Cappuccino",
+        "recipe": {
+            "hot": "1 shot espresso in the brown cup and steam the milk with more foam than latte.",
+            "cold": "Put ice in the tall glass and fill ½ with milk. Then pour espresso. After that steam a little bit of milk with a lot of foam and put the foam layer at the top. Add a little cocoa powder over the foam once done",
             "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar9",
-        "category": "Chocolate",
-        "name": "The Twelve Iced Chocolate",
-        "recipe": {
-            "hot": "",
-            "cold": "Mix 4 teaspoon of cocoa powder and 2 table spoon of Hershey syrup. Mix very little hot water to melt the cocoa powder. Pour in a glass filled with ice and ¾ milk",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar10",
-        "category": "Loose Leaf Tea",
-        "name": "Butterfly Pea Blue Tea",
-        "recipe": {
-            "hot": "One and a half table spoon of butterfly pea tea flowers in the glass jug. Fill ¾ of the jug with hot water and leave to set for like 5 mins. Then give customers the small glass cups under the bar.",
-            "cold": "Give them the small glass with the designs at the bottom and fill it with ice all the way. If they ask for more ice can refill later.",
-            "note": "Free refills of hot water for the tea."
-        }
-    },
-    {
-        "_id": "ttcbar11",
-        "category": "Loose Leaf Tea",
-        "name": "Chrysanthemum Tea",
-        "recipe": {
-            "hot": "One and a half table spoon of tea flowers in the glass jug. Fill ¾ of the jug with hot water and leave to set for like 5 mins. Then give customers the small glass cups under the bar.",
-            "cold": "Give them the small glass with the designs at the bottom and fill it with ice all the way. If they ask for more ice can refill later.",
-            "note": "Free refills of hot water for the tea."
-        }
-    },
-    {
-        "_id": "ttcbar12",
-        "category": "Loose Leaf Tea",
-        "name": "Hibiscus Tea",
-        "recipe": {
-            "hot": "One and a half table spoon of tea flowers in the glass jug. Fill ¾ of the jug with hot water and leave to set for like 5 mins. Then give customers the small glass cups under the bar.",
-            "cold": "Give them the small glass with the designs at the bottom and fill it with ice all the way. If they ask for more ice can refill later.",
-            "note": "Free refills of hot water for the tea."
-        }
-    },
-    {
-        "_id": "ttcbar13",
-        "category": "Loose Leaf Tea",
-        "name": "Chomomile",
-        "recipe": {
-            "hot": "Cut teabag string and put in the brown cup. Fill all  the way with hot water.",
-            "cold": "let the tea set for 5 mins then put in a cup of ice and add 5ml sugar if needed.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar14",
-        "category": "Loose Leaf Tea",
-        "name": "Green Tea",
-        "recipe": {
-            "hot": "Cut teabag string and put in the brown cup. Fill all  the way with hot water",
-            "cold": "let the tea set for 5 mins then put in a cup of ice and add 5ml sugar if needed.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar15",
-        "category": "Loose Leaf Tea",
-        "name": "Rose Bud Tea",
-        "recipe": {
-            "hot": "One and a half table spoon of tea flowers in the glass jug. Fill ¾ of the jug with hot water and leave to set for like 5 mins. Then give customers the small glass cups under the bar.",
-            "cold": "Give them the small glass with the designs at the bottom and fill it with ice all the way. If they ask for more ice can refill later.",
-            "note": "Free refills of hot water for the tea."
-        }
-    },
-    {
-        "_id": "ttcbar16",
-        "category": "Loose Leaf Tea",
-        "name": "Jasmine Tea",
-        "recipe": {
-            "hot": "One and a half table spoon of tea flowers in the glass jug. Fill ¾ of the jug with hot water and leave to set for like 5 mins. Then give customers the small glass cups under the bar.",
-            "cold": "Give them the small glass with the designs at the bottom and fill it with ice all the way. If they ask for more ice can refill later.",
-            "note": "Free refills of hot water for the tea."
         }
     },
     {
@@ -170,8 +70,18 @@
         }
     },
     {
+        "_id": "ttcbar17",
+        "category": "Tea",
+        "name": "Chamomile",
+        "recipe": {
+            "hot": "Take Chamomile teabag from the desk and put in the tea cup. Fill all the way with hot water.",
+            "cold": "N/A",
+            "note": ""
+        }
+    },
+    {
         "_id": "ttcbar18",
-        "category": "Loose Leaf Tea",
+        "category": "Tea",
         "name": "English Breakfast",
         "recipe": {
             "hot": "Cut teabag string and put in the brown cup. Fill all  the way with hot water.",
@@ -180,158 +90,48 @@
         }
     },
     {
-        "_id": "ttcbar19",
-        "category": "Fizz",
-        "name": "Grapefruit Lemonade",
+        "_id": "ttcbar18",
+        "category": "Tea",
+        "name": "Honey Lemon Tea",
         "recipe": {
             "hot": "",
-            "cold": "6 shots syrup, 5 ml lime in the shaker with ice. Shake and pour in the small wine glass with ice. Fill the top with soda water and add one slice of lemon.",
+            "cold": "N/A",
             "note": ""
         }
     },
     {
-        "_id": "ttcbar20",
-        "category": "Fizz",
-        "name": "Strawberry Lemonade",
+        "_id": "ttcbar35",
+        "category": "Tea",
+        "name": "Ice Lemon Tea",
         "recipe": {
             "hot": "",
-            "cold": "6 shots syrup, 5 ml lime in the shaker with ice. Shake and pour in the small wine glass with ice. Fill the top with soda water and add one slice of lemon.",
-            "note": ""
+            "cold": "Put ice and ready made tea from the chiller",
+            "note": "Recipe For Big Jar: 2-3 tea bag of bow tea and fill up 3/4 water of big jar, then put 900gm suger and 900gm lemau cordial (test and add lemon or sugar if test not perfect)"
         }
     },
     {
-        "_id": "ttcbar21",
-        "category": "Fizz",
-        "name": "Pomegranated Lemonade",
+        "_id": "ttcbar36",
+        "category": "Tea",
+        "name": "Ice Black Tea",
         "recipe": {
             "hot": "",
-            "cold": "6 shots syrup, 5 ml lime in the shaker with ice. Shake and pour in the small wine glass with ice. Fill the top with soda water and add one slice of lemon.",
-            "note": ""
+            "cold": "Put ice and ready made tea from the chiller",
+            "note": "Recipe for the jog: 4 table spoon of bow tea, then add hot water small glass jar and fill up the jug until full with the tea water"
         }
     },
     {
-        "_id": "ttcbar22",
-        "category": "Fizz",
-        "name": "Rose Lemonade",
+        "_id": "ttcbar8",
+        "category": "Non Coffee",
+        "name": "Twelve's Chocolate",
         "recipe": {
-            "hot": "",
-            "cold": "6 shots syrup, 5 ml lime in the shaker with ice. Shake and pour in the small wine glass with ice. Fill the top with soda water and add one slice of lemon.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar23",
-        "category": "Fresh Juice",
-        "name": "Carrot Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "Blend one whole carrot and add 250ml of ice water. Can add a little more if needed. 15ml of sugar syrup, 5 for less ice.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar24",
-        "category": "Fresh Juice",
-        "name": "Lemon Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "Squeeze one hot lemon pour in the tall glass. Put 15 ml of the lime syrup from the fridge. 15 ml of sugar. Add ice.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar25",
-        "category": "Fresh Juice",
-        "name": "Green Apple Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "Blend 2 apples with the juicer. 15 ml of sugar syrup",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar26",
-        "category": "Fresh Juice",
-        "name": "Mango Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "Slice one whole mango and blend. 250ml ice water. 15 ml sugar syrup.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar27",
-        "category": "Fresh Juice",
-        "name": "Honeydew Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "Blend 1/4 honeydew with 250ml milk and 15ml sugar syrup and half tablespoon honey",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar28",
-        "category": "Fresh Juice",
-        "name": "Watermelon Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "Blend half watermelon 250ml water 15 ml sugar syrup.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar29",
-        "category": "Fresh Juice",
-        "name": "Orange Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "2 orange blend with 250ml water 15 ml sugar syrup",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar30",
-        "category": "Fresh Juice",
-        "name": "Soursop Juice",
-        "recipe": {
-            "hot": "",
-            "cold": "Sorry don't know the recipe!",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar31",
-        "category": "Fresh Juice",
-        "name": "Celery + Green Apple + Ginger",
-        "recipe": {
-            "hot": "",
-            "cold": "Blend hald celery 1 apple and one tiny piece of ginger with 250ml water 15 ml sugar syrup.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar32",
-        "category": "Fresh Juice",
-        "name": "Carrot + Beetroot + Orange",
-        "recipe": {
-            "hot": "",
-            "cold": "Blend 1 carrot with 2 slice of beetroot and 1 orange with 250ml water 15 ml sugar syrup.",
-            "note": ""
-        }
-    },
-    {
-        "_id": "ttcbar33",
-        "category": "Beverage",
-        "name": "Matcha Green Tea",
-        "recipe": {
-            "hot": "",
+            "hot": "Mix 3 teaspoon of cocoa powder and 1 table spoon of Hershey syrup. Mix with very little hot water to melt the chocolate. Steam milk like latte and pour",
             "cold": "",
             "note": ""
         }
     },
     {
         "_id": "ttcbar34",
-        "category": "Beverage",
+        "category": "Non Coffee",
         "name": "Walnut Brownie Milk",
         "recipe": {
             "hot": "2 shots of walnut brownie syrup in the milk and mix. Pour mixed milk in pitcher and steam",
@@ -340,22 +140,132 @@
         }
     },
     {
-        "_id": "ttcbar35",
-        "category": "Beverage",
-        "name": "Ice Lemon Tea",
+        "_id": "ttcbar56",
+        "category": "Non Coffee",
+        "name": "Milo Kaw Kaw",
         "recipe": {
-            "hot": "",
-            "cold": "Put ice and ready made tea from the chiller",
+            "hot": "In the brawn cup put, 2 table spoon of Milo Powder and melt with hot water and put a bit milk on the top",
+            "cold": "In the long glass put, 4 table spoon of Milo Powder and melt with hot water, put some ice and put a bit milk on the top",
             "note": ""
         }
     },
     {
-        "_id": "ttcbar36",
-        "category": "Beverage",
-        "name": "Ice Black Tea",
+        "_id": "ttcbar546",
+        "category": "Non Coffee",
+        "name": "3 Layered Tea",
+        "recipe": {
+            "hot": "N/A",
+            "cold": "In the long glass put, 1/5 dark sugar, then put 2/5 evaporated milk, then add the ready made teh tarik",
+            "note": "Teh Tarik: add 6 table spoon bow tea in glass jar, then put the tea water in the add condensed milk"
+        }
+    },
+    {
+        "_id": "ttcbar546",
+        "category": "Non Coffee",
+        "name": "Teh Tarik",
+        "recipe": {
+            "hot": "2 spoon bow tea and add condensed milk",
+            "cold": "In the long glass put, ice cube and add ready made tea tarik",
+            "note": "Teh Tarik: add 6 table spoon bow tea in glass jar, then put the tea water in the add condensed milk"
+        }
+    },
+    {
+        "_id": "ttcbar5456",
+        "category": "Non Coffee",
+        "name": "Kopi O",
+        "recipe": {
+            "hot": "1 pack Kopi O bag and hot water both put in the tea cup",
+            "cold": "2 pack Kopi O bag mix with hot water then use the long glass, put some ice and the mixed Kopi O water.",
+            "note": "Serve without Kopi O bag"
+        }
+    },
+    {
+        "_id": "ttcbar5443346",
+        "category": "Milkshakes",
+        "name": "Vanilla Special",
+        "recipe": {
+            "hot": "N/A",
+            "cold": "In blender put 3 scoop vanilla, then 5 pcs ice cube, add 200ml milk, then put in milkshake glass, add whipping cream and on it put some caramel syrup and put a cherry on top.",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar54346",
+        "category": "Milkshakes",
+        "name": "Nutella Goodness",
+        "recipe": {
+            "hot": "N/A",
+            "cold": "In blender put 3 scoop vanilla, then 1 table spoon Nutella, 4 pcs ice cube, add 200ml milk, then put in milkshake glass, add whipping cream and on it put some chocolate syrup.",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar5346",
+        "category": "Milkshakes",
+        "name": "Biscoff Crunch",
+        "recipe": {
+            "hot": "N/A",
+            "cold": "In blender put 3 scoop vanilla, then 2 table spoon biscoff, 4 pcs ice cube, add 200ml milk, then put in milkshake glass, add whipping cream and on it put some biscoff powder. ",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar534456",
+        "category": "Milkshakes",
+        "name": "Strawberry Marshmallow",
+        "recipe": {
+            "hot": "N/A",
+            "cold": "In blender put 3 scoop vanilla, add 6 pump strawberry monin syrup, 4 pcs ice cube, add 200ml milk, then put in milkshake glass, add whipping cream and on it put 5 marshmallow and put half strawberry on top. ",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar5344456",
+        "category": "Soft Drinks",
+        "name": "Ribena Lychee",
+        "recipe": {
+            "hot": "N/A",
+            "cold": "In blender put 3 scoop vanilla, add 6 pump strawberry monin syrup, 4 pcs ice cube, add 200ml milk, then put in milkshake glass, add whipping cream and on it put 5 marshmallow and put half strawberry on top. ",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar534456",
+        "category": "Soft Drinks",
+        "name": "A&W Float",
+        "recipe": {
+            "hot": "N/A",
+            "cold": "Put A&W Float in the long curve glass and add 1 scoop vanilla on top",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar29",
+        "category": "Fruit Juice",
+        "name": "Orange",
         "recipe": {
             "hot": "",
-            "cold": "Put ice and ready made tea from the chiller",
+            "cold": "2 orange blend with 250ml water 15 ml sugar syrup",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar28",
+        "category": "Fruit Juice",
+        "name": "Watermelon",
+        "recipe": {
+            "hot": "",
+            "cold": "Blend half watermelon 250ml water 15 ml sugar syrup.",
+            "note": ""
+        }
+    },
+    {
+        "_id": "ttcbar28",
+        "category": "Fruit Juice",
+        "name": "Juice Of The Day",
+        "recipe": {
+            "hot": "",
+            "cold": "Mix fruits",
             "note": ""
         }
     }
